@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\45922978810\\Desktop\\Translate\\TranslateAPI\\TranslateAPI\\TranslateAPI.csproj": {}
+    "C:\\Users\\enzoq\\OneDrive\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\45922978810\\Desktop\\Translate\\TranslateAPI\\TranslateAPI\\TranslateAPI.csproj": {
+    "C:\\Users\\enzoq\\OneDrive\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\45922978810\\Desktop\\Translate\\TranslateAPI\\TranslateAPI\\TranslateAPI.csproj",
+        "projectUniqueName": "C:\\Users\\enzoq\\OneDrive\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj",
         "projectName": "TranslateAPI",
-        "projectPath": "C:\\Users\\45922978810\\Desktop\\Translate\\TranslateAPI\\TranslateAPI\\TranslateAPI.csproj",
-        "packagesPath": "C:\\Users\\45922978810\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\45922978810\\Desktop\\Translate\\TranslateAPI\\TranslateAPI\\obj\\",
+        "projectPath": "C:\\Users\\enzoq\\OneDrive\\Desktop\\BackEnd\\TranslateAPI\\TranslateAPI.csproj",
+        "packagesPath": "C:\\Users\\enzoq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enzoq\\OneDrive\\Desktop\\BackEnd\\TranslateAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\45922978810\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\enzoq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -48,9 +58,29 @@
               "target": "Package",
               "version": "[24.10.0, )"
             },
+            "Azure.AI.Translation.Document": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.23.0, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
             },
             "MongoDB.Bson": {
               "target": "Package",
@@ -63,10 +93,6 @@
             "MongoDB.Driver.Core": {
               "target": "Package",
               "version": "[2.30.0, )"
-            },
-            "Swagger": {
-              "target": "Package",
-              "version": "[1.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -91,6 +117,14 @@
             "Swashbuckle.Core": {
               "target": "Package",
               "version": "[5.6.0, )"
+            },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.0, )"
             }
           },
           "imports": [
@@ -112,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

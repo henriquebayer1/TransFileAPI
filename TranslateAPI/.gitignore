@@ -1,0 +1,8 @@
+.vs folder
+
+# Ignorar arquivos específicos em Debug
+TranslateAPI/bin/Debug/net8.0/Aspose.PDF.dll
+
+# Ignorar todos os arquivos DLL na pasta Debug
+TranslateAPI/bin/Debug/net8.0/*.dll
+

@@ -4,10 +4,9 @@ namespace TranslateAPI.Interfaces
 {
     public interface IUserRepository
     {
-
         void Register(User user);
 
-        User SearchById(Guid id);
+        Task<User> SearchById(string id);
 
         User SearchByEmailAndPassword(string email, string password);
 

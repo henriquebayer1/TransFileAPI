@@ -1,13 +1,27 @@
-﻿namespace TranslateAPI.Domains
+﻿using MongoDB.Bson.Serialization.Attributes;
+using MongoDB.Bson;
+
+namespace TranslateAPI.Domains
 {
     public class User
     {
-        public Guid Id { get; set; } = Guid.NewGuid();
+        [BsonId]
+        [BsonElement("_id"), BsonRepresentation(BsonType.ObjectId)]
+        public string? Id { get; set; }
 
+        [BsonElement("googleId")]
+        public string? GoogleId { get; set; }
+
+        [BsonElement("name")]
         public string? Name { get; set; }
 
+        [BsonElement("photo")]
+        public string? Photo {  get; set; }
+
+        [BsonElement("email")]
         public string? Email { get; set; }
 
+        [BsonElement("password")]
         public string? Password { get; set; }
 
 

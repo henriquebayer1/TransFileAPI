@@ -1,10 +1,21 @@
-﻿using TranslateAPI.Domains;
+﻿using MongoDB.Driver;
+using TranslateAPI.Domains;
 using TranslateAPI.Interfaces;
+using TranslateAPI.Services;
+
+
 
 namespace TranslateAPI.Repositories
 {
     public class UserRepository : IUserRepository
     {
+        private readonly IMongoCollection<User> _user;
+
+
+        public UserRepository(MongoDbService mongoDbService)
+        {
+            _user = mongoDbService.GetDatabase.GetCollection<User>("user");
+        }
         public bool ChangePassword(string email, string newPassword)
         {
             throw new NotImplementedException();
@@ -20,9 +31,24 @@ namespace TranslateAPI.Repositories
             throw new NotImplementedException();
         }
 
-        public User SearchById(Guid id)
+        public async Task<User> SearchById(string id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var user = await _user.Find(p => p.Id == id).FirstOrDefaultAsync();
+                if (user == null)
+                {
+                    return null!;
+                }
+
+                return user;
+
+            }
+            catch (Exception e)
+            {
+
+                throw;
+            }
         }
     }
 }

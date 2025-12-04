@@ -1,0 +1,748 @@
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.AssemblyReference.cache
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfoInputs.cache
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfo.cs
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CoreCompileInputs.cache
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.sourcelink.json
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\TranslateAPI.exe
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\TranslateAPI.deps.json
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\TranslateAPI.runtimeconfig.json
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\TranslateAPI.pdb
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Aspose.PDF.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Aspose.Words.Pdf2Word.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Aspose.Words.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Swashbuckle.Core.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.TranslateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranslateAPI.props
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranslateAPI.props
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranslateAPI.props
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\scopedcss\bundle\TranslateAPI.styles.css
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\Translat.B2CE3916.Up2Date
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\refint\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.pdb
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\TranslateAPI.genruntimeconfig.cache
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\obj\Debug\net8.0\ref\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\48260449846\Desktop\TransFileAPI\TranslateAPI\TranslateAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\TranslateAPI.exe
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\TranslateAPI.deps.json
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\TranslateAPI.runtimeconfig.json
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\TranslateAPI.pdb
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Aspose.PDF.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Aspose.Words.Pdf2Word.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Aspose.Words.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\Swashbuckle.Core.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.AssemblyReference.cache
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfoInputs.cache
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfo.cs
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CoreCompileInputs.cache
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.sourcelink.json
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.TranslateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranslateAPI.props
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranslateAPI.props
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranslateAPI.props
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\scopedcss\bundle\TranslateAPI.styles.css
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\Translat.B2CE3916.Up2Date
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\refint\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.pdb
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\TranslateAPI.genruntimeconfig.cache
+C:\Users\48260449846\Desktop\TransFile\TranslateAPI\obj\Debug\net8.0\ref\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\TranslateAPI.exe
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\TranslateAPI.deps.json
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\TranslateAPI.runtimeconfig.json
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\TranslateAPI.pdb
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Aspose.PDF.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Aspose.Words.Pdf2Word.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Aspose.Words.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\Swashbuckle.Core.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.AssemblyReference.cache
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfoInputs.cache
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfo.cs
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CoreCompileInputs.cache
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.sourcelink.json
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.TranslateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranslateAPI.props
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranslateAPI.props
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranslateAPI.props
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\scopedcss\bundle\TranslateAPI.styles.css
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\Translat.B2CE3916.Up2Date
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\refint\TranslateAPI.dll
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.pdb
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\TranslateAPI.genruntimeconfig.cache
+C:\Users\48260449846\Desktop\TransFile_API\TranslateAPI\obj\Debug\net8.0\ref\TranslateAPI.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.AssemblyReference.cache
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfoInputs.cache
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfo.cs
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CoreCompileInputs.cache
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.sourcelink.json
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\refint\TranslateAPI.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.pdb
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.exe
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.deps.json
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.runtimeconfig.json
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.pdb
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.PDF.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.Pdf2Word.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.AI.Translation.Document.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.Core.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.TranslateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranslateAPI.props
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranslateAPI.props
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranslateAPI.props
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\scopedcss\bundle\TranslateAPI.styles.css
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CopyComplete
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.genruntimeconfig.cache
+C:\Users\45811737874\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\ref\TranslateAPI.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.exe
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.deps.json
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.runtimeconfig.json
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.pdb
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.PDF.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.Pdf2Word.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.AI.Translation.Document.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.Core.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.AssemblyReference.cache
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfoInputs.cache
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfo.cs
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CoreCompileInputs.cache
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.sourcelink.json
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.TranslateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranslateAPI.props
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranslateAPI.props
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranslateAPI.props
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\scopedcss\bundle\TranslateAPI.styles.css
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CopyComplete
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\refint\TranslateAPI.dll
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.pdb
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.genruntimeconfig.cache
+C:\Users\45922978810\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\ref\TranslateAPI.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.exe
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.deps.json
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.runtimeconfig.json
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.pdb
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.PDF.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.Pdf2Word.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.AI.Translation.Document.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.Core.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.AssemblyReference.cache
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfoInputs.cache
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfo.cs
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CoreCompileInputs.cache
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.sourcelink.json
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.TranslateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranslateAPI.props
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranslateAPI.props
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranslateAPI.props
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\scopedcss\bundle\TranslateAPI.styles.css
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\Translat.B2CE3916.Up2Date
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\refint\TranslateAPI.dll
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.pdb
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.genruntimeconfig.cache
+C:\Users\48260449846\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\ref\TranslateAPI.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.exe
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.deps.json
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.runtimeconfig.json
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.pdb
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.PDF.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.Pdf2Word.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.AI.Translation.Document.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.Core.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.AssemblyReference.cache
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfoInputs.cache
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfo.cs
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CoreCompileInputs.cache
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.sourcelink.json
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.TranslateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranslateAPI.props
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranslateAPI.props
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranslateAPI.props
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\scopedcss\bundle\TranslateAPI.styles.css
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CopyComplete
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\refint\TranslateAPI.dll
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.pdb
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.genruntimeconfig.cache
+C:\Users\richa\OneDrive\Área de Trabalho\BackEnd\TranslateAPI\obj\Debug\net8.0\ref\TranslateAPI.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.staticwebassets.endpoints.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.exe
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.deps.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.runtimeconfig.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\TranslateAPI.pdb
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.PDF.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.Pdf2Word.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Aspose.Words.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.AI.Translation.Document.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\DnsClient.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Snappier.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\Swashbuckle.Core.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.AssemblyReference.cache
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfoInputs.cache
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.AssemblyInfo.cs
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.csproj.CoreCompileInputs.cache
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.sourcelink.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\scopedcss\bundle\TranslateAPI.styles.css
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.TranslateAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.TranslateAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TranslateAPI.props
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TranslateAPI.props
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TranslateAPI.props
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\Translat.B2CE3916.Up2Date
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\refint\TranslateAPI.dll
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.pdb
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\TranslateAPI.genruntimeconfig.cache
+C:\Users\enzoq\OneDrive\Desktop\BackEnd\TranslateAPI\obj\Debug\net8.0\ref\TranslateAPI.dll
